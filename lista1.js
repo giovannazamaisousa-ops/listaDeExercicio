@@ -26,6 +26,7 @@ console.log (triplo);
 let nota = 20;
 let nota1 = 60;
 let media = nota + nota1 /2
+
 //Criar um programa para converter metros em centímetros.
 //Criar um programa para mostrar o antecessor e sucessor de um número.
 //Criar um programa que mostre a área de um retângulo.
