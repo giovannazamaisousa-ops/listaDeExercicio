@@ -24,3 +24,8 @@ if (senha === "amoeba123") {
 } else {
     console.log("Acesso negado.")
 }
+
+//Criar um programa que mostre um desconto de 5% para compras maiores de R$100.
+//Criar um programa que que classifique uma pessoa como criança, adolescente ou adulto de acordo com a idade.
+//Criar um programa que mostre qual tipo de triângulo de acordo com seus lados (equilatero, isóceles e escalneo).
+//Criar um programa que mostre conceitos A B C ou D e acordo com as notas: >9.5 A; Entre 9.4 e 8.5 B; Entre 8.4 e 7.0 C; <6.9 D.
