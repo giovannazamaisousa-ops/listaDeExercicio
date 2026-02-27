@@ -5,7 +5,7 @@ console.log (mensagem);
 
 //Criar um programa para exibir seu nome completo.
 
-let nome = 'Giovanna Zamai';
+let nome = 'Giovanna Zamai.';
 console.log (nome);
 
 //Criar um programa que mostre um número e exiba seu dobro.
@@ -15,27 +15,41 @@ let dobro = numero * 2;
 console.log (dobro);
  
 
-//Criar um programa que mostre em número e exiba seu triplo.
+//Criar um programa que mostre um número e exiba seu triplo.
 
 let num = 60;
 let triplo = numero * 3;
-console.log (triplo);
+console.log (`O triplo de ${num}`)
 
 //Criar um programa que mostre duas notas e calcule a média.
 
 let nota = 20;
 let nota1 = 60;
-let media = nota + nota1 /2
+let media = (nota + nota1)/2
+console.log (`A primeira nota é ${nota} e a segunda é ${nota1}, e a media é ${media}.`);
+
 
 //Criar um programa para converter metros em centímetros.
+
+let num1 = 5;
+let num2 = num1 * 100
+console.log (`5 metros convertidos para cm é ${num2}.`)
+
 //Criar um programa para mostrar o antecessor e sucessor de um número.
-//Criar um programa que mostre a área de um retângulo.
+
+let x=4
+let antecessor = x-1
+let sucessor= x+1
+console.log (`O antecesssor de ${x} é ${antecessor}. E o sucessor é ${sucessor}.`)
+
 //Criar um programa para calcular um aumento de 10% num sálario de 2000,00.
+
+let salário = 2000
 //Criar um programa para verificar se seu número é par ou impar.
 
-let numero7 = 5;
+let numero7 = 4;
 if(numero7 % 2 === 0) {
-    console.log('numero par');
+    console.log('numero par.');
 } else {
-    console.log('numero impar');
+    console.log('numero impar.');
 }
